@@ -10,7 +10,7 @@ This repository contains my first project as a Data Analytics Intern at Decode L
 Instead of just running basic functions, this pipeline utilizes statistical logic to handle missing values, neutralize outliers and engineer predictive features.
 
 ### 📊 Visualizing the Mathematical Impact
-![Impact of Outlier Removal](outlier_impact_visualization.png)
+![Impact of Outlier Removal](Outlier_Impact_Visualization.png)
 
 # 🧮 Mathematical Approach & Methodology
 
