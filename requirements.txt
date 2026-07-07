@@ -1,0 +1,13 @@
+# Core Data Analytics & Machine Learning
+pandas==2.2.0
+numpy==1.26.4
+scikit-learn==1.4.1.post1
+
+# Visualization
+matplotlib==3.8.3
+seaborn==0.13.2
+
+# Excel Engine
+openpyxl==3.1.2
+
+# Note: sqlite3 is part of the Python Standard Library and does not require installation.
